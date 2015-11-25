@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SkinManager</string>
+
+    <string name="skin_guide">select dynamic change skin type!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn1">use android theme</string>
+    <string name="btn2">use zip skin</string>
+    <string name="btn3">use apk share id</string>
+    <string name="btn4">use apk plugin</string>
+
+    <string name="btn_skin">change skin</string>
+    <string name="skin_info">Im the default skin in this apk!</string>
+    <string name="skin_info2">Im now use the skin in skin1 apk!</string>
+</resources>
